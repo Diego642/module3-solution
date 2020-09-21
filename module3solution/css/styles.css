@@ -1,0 +1,35 @@
+#header-nav {
+    background-color: darkgrey;
+    border-radius: 0;
+    border: 2px solid black;
+    font-weight: bold;
+}
+.navbar-brand h1:hover{
+    text-decoration: none;
+}
+
+.navbar-brand > h1{
+    color: black;
+}
+
+.row > h2{
+    margin-bottom: 34px;
+}
+
+.dummy-text{
+    background-color: darkgrey;
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
+
+#nav-list{
+    background-color: darkgrey;
+}
+
+#nav-list a:hover{
+    background-color: azure;
+}
+
+hr{
+    margin: 7px;
+}
